@@ -4,7 +4,9 @@ let height;
 
 //代入
 wight = 68;
-height = 1.7
+height = 1.7;
 
-console.log(wight/[height*height])
+BMI = wight/[height*height];
+
+console.log(BMI);
 
